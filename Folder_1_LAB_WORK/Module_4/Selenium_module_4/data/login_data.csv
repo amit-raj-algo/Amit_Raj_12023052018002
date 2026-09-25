@@ -1,0 +1,4 @@
+username,password,expected
+standard_user,secret_sauce,Products
+invalid_user,wrong_password,Username and password do not match any user in this service
+problem_user,secret_sauce,Products

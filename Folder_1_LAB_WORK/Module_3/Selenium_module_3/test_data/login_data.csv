@@ -1,0 +1,7 @@
+test_case,username,password,expected_result,expected_error
+TC001,standard_user,secret_sauce,success,
+TC002,standard_user,wrong_password,error,Epic sadface: Username and password do not match any user in this service
+TC003,wrong_user,secret_sauce,error,Epic sadface: Username and password do not match any user in this service
+TC004,wrong_user,wrong_password,error,Epic sadface: Username and password do not match any user in this service
+TC005,,secret_sauce,error,Epic sadface: Username is required
+TC006,standard_user,,error,Epic sadface: Password is required

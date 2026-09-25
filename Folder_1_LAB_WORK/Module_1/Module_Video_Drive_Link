@@ -1,0 +1,8 @@
+# VIDEO DEMONSTRATION:
+# Google Drive: https://drive.google.com/drive/folders/1bt7dHAZyXkzOkkB5xqKdjqFZr-WTLmKX?usp=sharing
+
+# Assignment 1: Selenium Login Automation
+# Objective: Automate the SauceDemo login functionality using Selenium WebDriver.
+# Locators Used: ID, NAME, XPATH
+# Validation: Verify successful login by checking the inventory page URL.
+# Result: Assignment 1 PASSED 
